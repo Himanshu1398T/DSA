@@ -1,2 +1,2 @@
 # DSA
-DSA - Assignments
+DSA - Mock Tests
